@@ -18,7 +18,7 @@ for (var i = 1; i <= 10; i++) {
     c.appendChild(t);
 
     var p = document.createElement('p');
-    p.textContent = 'DALE DELE DOly dale dele doly dale dele dlyl dale dely';
+    p.textContent = 'responsivo responsivo responsivo responsivo responsivo responsivo';
     c.appendChild(p);
 }
 
